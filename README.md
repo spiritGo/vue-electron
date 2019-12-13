@@ -1,13 +1,13 @@
-# test03
+# vue-electron
 
 ## Project setup
 ```
-npm install
+npm install or cnpm i
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run serve 
 ```
 
 ### Compiles and minifies for production
