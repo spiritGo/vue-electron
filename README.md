@@ -1,16 +1,21 @@
 # vue-electron
 
-## Project setup
+## 下载依赖
 ```
 npm install or cnpm i
 ```
 
-### Compiles and hot-reloads for development
+### 编译运行 vue 项目
 ```
 npm run serve 
 ```
 
-### Compiles and minifies for production
+### 编译运行桌面应用
+```
+npm run mock
+```
+
+### 编译 vue 项目
 ```
 npm run build
 ```
