@@ -20,5 +20,11 @@ npm run mock
 npm run build
 ```
 
+## 打包项目
+- 打包好的项目在 electron/app 内
+```
+npm run package
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

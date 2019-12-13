@@ -1,0 +1,16 @@
+{
+  "name": "test01",
+  "version": "1.0.0",
+  "description": "this is a electron application",
+  "main": "main.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "spiritGo",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^7.1.4",
+    "electron-packager": "^14.1.1"
+  }
+}

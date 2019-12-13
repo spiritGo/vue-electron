@@ -6,6 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "start": "electron ./electron/main.js",
+    "package": "electron-packager ./electron win --out ./electron/app --arch=x64 --electron-version=^7.1.4 --overwrite --asar",
     "mock": "vue-cli-service build && electron ./electron/main.js"
   },
   "dependencies": {
