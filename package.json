@@ -21,7 +21,7 @@
     "@vue/cli-plugin-babel": "^4.1.0",
     "@vue/cli-plugin-router": "^4.1.0",
     "@vue/cli-plugin-vuex": "^4.1.0",
-    "@vue/cli-service": "^4.1.0",
+    "@vue/cli-service": "^5.0.8",
     "electron": "^7.1.4",
     "electron-packager": "^14.1.1",
     "node-sass": "^4.12.0",
